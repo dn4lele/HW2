@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">HW2</string>
+    <string name="see_next_user">See next user</string>
+    <string name="add_this_user_to_collection">Add this user to collection</string>
+    <string name="view_collection">View collection</string>
+    <string name="firstname">firstName</string>
+    <string name="lastname">lastName</string>
+    <string name="age_con">Age:</string>
+    <string name="age">age</string>
+    <string name="email_con">Email:</string>
+    <string name="email">email</string>
+    <string name="city_con">City:</string>
+    <string name="city">city</string>
+    <string name="country_con">Country:</string>
+    <string name="country">country</string>
+    <string name="users">Users</string>
+</resources>
